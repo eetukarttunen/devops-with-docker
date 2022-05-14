@@ -84,3 +84,12 @@ Secret message is: 'You can find the source code here: https://github.com/docker
 ~~~
 Alpine image size was samaller and secret message was the same.
 
+## Exercise 1.6: Hello Docker Hub
+secret message: "This is the secret message"
+command(s): 
+~~~
+>docker run -it devopsdockeruh/pull_exercise
+~~~
+
+
+
