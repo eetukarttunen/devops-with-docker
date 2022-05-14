@@ -82,5 +82,5 @@ devopsdockeruh/simple-web-service   alpine    fd312adc88e0   14 months ago   15.
 2022-05-14 19:14:47 +0000 UTC
 Secret message is: 'You can find the source code here: https://github.com/docker-hy'
 ~~~
-Secret message was the same.
+Alpine image size was samaller and secret message was the same.
 
